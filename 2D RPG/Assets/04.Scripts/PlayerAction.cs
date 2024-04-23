@@ -22,6 +22,8 @@ public class PlayerAction : MonoBehaviour
         anim = GetComponent<Animator>();
     }
 
+
+    
     void Update()
     {
         //move value
